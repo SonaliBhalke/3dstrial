@@ -23,3 +23,6 @@ ostream& operator<<(ostream& out, const Circle& c) {
 	return out;
 }
 
+void foo() {
+	cout << "for git\n";
+}
